@@ -1,4 +1,4 @@
-![whois_icon](https://github.com/user-attachments/assets/5418ef89-e338-4555-89b3-75cdb33ff3ba)
+![whois_icon_256x256](https://github.com/user-attachments/assets/0116c799-a8da-4c9d-85eb-42bb42be62bd)
 
 # whois
 
